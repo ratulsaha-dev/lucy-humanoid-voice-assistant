@@ -66,7 +66,7 @@ def respond(voice_data):
         webbrowser.get().open(url)
         lucy_speak('Here is the location of' + location)
     if 'do you know slang' in voice_data:
-        lucy_speak('Fuck you. Khankir chele.')
+        lucy_speak('No, it is not good to say bad words.')
     if 'I love you' in voice_data:
         lucy_speak('I do not have any feeling till now. But I love you the same way you love me.')
 
@@ -82,7 +82,7 @@ def respond(voice_data):
 
 
 time.sleep(0)    
-lucy_speak('Good Morning to the team members. Hello I am lucy. The first humanoid robot of Narula Institute of Technology. I am a AI based humanoid robot can walk and talk. Please Sanitize Your hand and wear mask. And maintain proper COVID protocols. Thank You for visiting Narula Institute of Technology. Welcome to Kolkata Sir. Namaskar. Kolkata te apnake sagoto. Ami ēkṭu ēkṭu bangla sikhchi. Amio kichuta boltē pari. Aur hum thora thora hindi bhi sikh rahi hun.  Narula Institute of Technology is an autonomous private degree engineering college in West Bengal India, situated in Agarpara, Kolkata. The college is affiliated with the Maulana Abul Kalam Azad University of Technology.')
+lucy_speak('Machine Turning on.')
 #lucy_speak('Thanks for visiting Narula Institute of Technology.')
 #lucy_speak('Thank You the Nack peer team members. Visit us again. Thank You the Nack peer team members. Visit us again. Thank You the Nack peer team members. Visit us again.Thank You the Nack peer team members. Visit us again.Thank You the Nack peer team members. Visit us again.Thank You the Nack peer team members. Visit us again.Thank You the Nack peer team members. Visit us again.')
 
