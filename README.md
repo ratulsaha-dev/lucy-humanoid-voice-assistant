@@ -1,2 +1,2 @@
-# lucy-humanoid-voice-assistant
-Humanoid Robot voice assistant
+# lucy-humanoid-voice-assistant in python
+As I mentioned, a humanoid robot acts more like human when it has the capacity to understand the things what we want. This system can run in the windows system as well as in Linux with some quite changes.  We ave to install and import some libraries for the functionalities. It can’t read the voice without having the Speech to text conversion. From time sense it have to import time framework. Some questions it can import via wikipedia. And some logics makes it smart too. It can say good morning, afternoon accordingly.
